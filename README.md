@@ -1,16 +1,14 @@
-## Hi there 👋
+<!--   Sample Here -->
 
-<!--
-**raecellann/raecellann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Raecell Ann! 
 
-Here are some ideas to get you started:
+👩🏻‍💻 I'm currently a 4th-Year Computer Science Student <br/>
+✨ I like UI/UX Design & Graphics Design <br/>
+⌨️ Front-End Web Developer <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Stats
+<!-- Github Stats -->
+![raecell's github stats](https://github-readme-stats.vercel.app/api?username=raecellann&show_icons=true&theme=synthwave)
+
+
+
